@@ -1,5 +1,7 @@
+//SOLUTIONS
+
 function max(arr) {
-  // we can use the first element as the default 'maximum'
+  // we can use the first element as the default/supposed 'maximum'
   let maximum = arr[0];
   // then if we encounter a larger element in the rest of the array,
   //   replace the value. Note we can start our loop at index 1

@@ -1,4 +1,7 @@
-Your assignment is to write the following functions in the descriptions below - good luck!
+Your assignment is to write the following functions in the descriptions below.
+
+You can run the tests by running the index.html with Live server. Each good solution will result in a green dot below the title.
+You should aim to have all the dots green :) - good luck!
 
 ### appendToString
 
@@ -313,7 +316,7 @@ entries(obj3); // []
 
 Implement a function called **multiples** that accepts two numbers: **_x_** and **_n_**.
 
-The function should return the first **_n_** multiples of the number **_x_**.
+The function should return an array containing the first **_n_** multiples of the number **_x_**.
 
 Assume that **_x_** is a positive integer.
 
